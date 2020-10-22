@@ -1,0 +1,37 @@
+[
+  {
+    "firstname": "John",
+    "lastname": "Doe",
+    "address": "120 jefferson st.",
+    "city": "Riverside",
+    "code": " 080750"
+  },
+  {
+    "firstname": "Jack",
+    "lastname": "McGinnis",
+    "address": "220 hobo Av.",
+    "city": "Phila",
+    "code": "091190"
+  },
+  {
+    "firstname": "John \"Da Man\"",
+    "lastname": "Repici",
+    "address": "120 Jefferson St.",
+    "city": "Riverside",
+    "code": "080750"
+  },
+  {
+    "firstname": "Stephen",
+    "lastname": "Tyler",
+    "address": "7452 Terrace \"At the Plaza\" road",
+    "city": "SomeTown",
+    "code": " 912340"
+  },
+  {
+    "firstname": "sam",
+    "lastname": "huge",
+    "address": "Blankman",
+    "city": "SomeTown",
+    "code": " 00298"
+  },
+  {"firstname":"Joan \"the bone\", Anne","lastname":"Jet","address":"9th, at Terrace plc","city":"Desert City","code":"001230"}]
